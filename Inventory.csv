@@ -1,45 +1,45 @@
-﻿sku,name,description,warehouse_Num,
-101,Apple iPhone 13,6.1-inch Super Retina XDR display,1,
-102,Samsung Galaxy S21,6.2-inch Dynamic AMOLED 2X display,2,
-103,Google Pixel 6,6.4-inch AMOLED display,3,
-104,Fitbit Charge 5,Advanced Health & Fitness Tracker,1,
-105,Sony PlayStation 5,Console with Ultra HD Blu-ray Disc Drive,2,
-106,Microsoft Xbox Series X,4K Gaming Console,3,
-107,Canon EOS R6,Full-Frame Mirrorless Camera,1,
-108,Sony Alpha A7 III,Mirrorless Digital Camera,2,
-109,HP Spectre x360,13.3-inch 4K UHD Touch-Screen Laptop,3,
-110,Dell XPS 13,13.3-inch FHD Laptop,1,
-111,Apple MacBook Pro,13-inch M1 Chip Laptop,2,
-112,Lenovo ThinkPad X1 Carbon,14-inch Ultrabook,3,
-113,Bose QuietComfort 35 II,Wireless Noise Cancelling Headphones,1,
-114,Sennheiser Momentum 3,Wireless Noise Cancelling Headphones,2,
-115,Samsung QN90A Neo QLED TV,4K Ultra HD Smart TV,3,
-116,LG C1 OLED TV,4K Ultra HD Smart OLED TV,1,
-117,Samsung Galaxy Tab S7,11-inch Android Tablet,2,
-118,Apple iPad Pro,12.9-inch M1 Chip Tablet,3,
-119,Kindle Paperwhite,Waterproof E-reader,1,
-120,Nintendo Switch OLED Model,Handheld Game Console,2,
-121,Microsoft Surface Laptop 4,13.5-inch Touchscreen Laptop,3,
-122,Logitech MX Master 3,Wireless Mouse,1,
-123,Apple Magic Keyboard,Wireless Keyboard,2,
-124,Belkin Boost Charge Pro 3-in-1 Wireless Charger,Wireless Charging Station,3,
-125,Anker PowerCore Slim 10000 PD,Portable Charger,1,
-126,Philips Hue White and Color Ambiance Starter Kit,Smart Light Bulbs,2,
-127,Ring Video Doorbell 4,Smart Doorbell,3,
-128,Google Nest Hub (2nd Gen),Smart Display,1,
-129,Amazon Echo Dot (3rd Gen),Smart Speaker,2,
-130,Sonos One (Gen 2),Smart Speaker,3,
-131,JBL Flip 5,Waterproof Bluetooth Speaker,1,
-132,Bose SoundLink Revolve+,Portable Bluetooth Speaker,2,
-133,Beats Studio Buds,True Wireless Earbuds,3,
-134,Jabra Elite 85t,True Wireless Earbuds,1,
-135,Apple AirPods Pro,Active Noise Cancelling Earbuds,2,
-136,Sony WH-1000XM4,Wireless Noise Cancelling Headphones,3,
-137,GoPro HERO10 Black,Action Camera,1,
-138,DJI Mavic Air 2,Drone with 4K Camera,2,
-139,Canon EOS Rebel T8i,DSLR Camera,3,
-140,Nikon Z50,Mirrorless Camera,1,
-141,Fujifilm Instax Mini 11,Instant Camera,2,
-142,Western Digital My Passport 4TB,Portable External Hard Drive,3,
-143,Samsung T5 Portable SSD,500GB,Portable SSD,1
-144,Seagate Backup Plus Hub,8TB External Desktop Hard Drive,,
+﻿sku,name,description,warehouse_Num
+101,Apple iPhone 13,6.1-inch Super Retina XDR display,1
+102,Samsung Galaxy S21,6.2-inch Dynamic AMOLED 2X display,2
+103,Google Pixel 6,6.4-inch AMOLED display,3
+104,Fitbit Charge 5,Advanced Health & Fitness Tracker,1
+105,Sony PlayStation 5,Console with Ultra HD Blu-ray Disc Drive,2
+106,Microsoft Xbox Series X,4K Gaming Console,3
+107,Canon EOS R6,Full-Frame Mirrorless Camera,1
+108,Sony Alpha A7 III,Mirrorless Digital Camera,2
+109,HP Spectre x360,13.3-inch 4K UHD Touch-Screen Laptop,3
+110,Dell XPS 13,13.3-inch FHD Laptop,1
+111,Apple MacBook Pro,13-inch M1 Chip Laptop,2
+112,Lenovo ThinkPad X1 Carbon,14-inch Ultrabook,3
+113,Bose QuietComfort 35 II,Wireless Noise Cancelling Headphones,1
+114,Sennheiser Momentum 3,Wireless Noise Cancelling Headphones,2
+115,Samsung QN90A Neo QLED TV,4K Ultra HD Smart TV,3
+116,LG C1 OLED TV,4K Ultra HD Smart OLED TV,1
+117,Samsung Galaxy Tab S7,11-inch Android Tablet,2
+118,Apple iPad Pro,12.9-inch M1 Chip Tablet,3
+119,Kindle Paperwhite,Waterproof E-reader,1
+120,Nintendo Switch OLED Model,Handheld Game Console,2
+121,Microsoft Surface Laptop 4,13.5-inch Touchscreen Laptop,3
+122,Logitech MX Master 3,Wireless Mouse,1
+123,Apple Magic Keyboard,Wireless Keyboard,2
+124,Belkin Boost Charge Pro 3-in-1 Wireless Charger,Wireless Charging Station,3
+125,Anker PowerCore Slim 10000 PD,Portable Charger,1
+126,Philips Hue White and Color Ambiance Starter Kit,Smart Light Bulbs,2
+127,Ring Video Doorbell 4,Smart Doorbell,3
+128,Google Nest Hub (2nd Gen),Smart Display,1
+129,Amazon Echo Dot (3rd Gen),Smart Speaker,2
+130,Sonos One (Gen 2),Smart Speaker,3
+131,JBL Flip 5,Waterproof Bluetooth Speaker,1
+132,Bose SoundLink Revolve+,Portable Bluetooth Speaker,2
+133,Beats Studio Buds,True Wireless Earbuds,3
+134,Jabra Elite 85t,True Wireless Earbuds,1
+135,Apple AirPods Pro,Active Noise Cancelling Earbuds,2
+136,Sony WH-1000XM4,Wireless Noise Cancelling Headphones,3
+137,GoPro HERO10 Black,Action Camera,1
+138,DJI Mavic Air 2,Drone with 4K Camera,2
+139,Canon EOS Rebel T8i,DSLR Camera,3
+140,Nikon Z50,Mirrorless Camera,1
+141,Fujifilm Instax Mini 11,Instant Camera,2
+142,Western Digital My Passport 4TB,Portable External Hard Drive,3
+143,Samsung T5 Portable SSD,500GB,Portable SSD
+144,Seagate Backup Plus Hub,8TB External Desktop Hard Drive,
